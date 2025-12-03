@@ -15,6 +15,8 @@ Half Adder
 Half adder is a combinational circuit that performs simple addition of two binary numbers. The input variables designate the augend and addend bits; the output variables produce the sum and carry. It is necessary to specify two output variables because the result may consist of two binary digits.
 
 Sum = A’B+AB’ =A ⊕ B Carry = AB
+<img width="1416" height="644" alt="image" src="https://github.com/user-attachments/assets/56ea0cb7-c549-4662-b942-be9c1e728749" />
+
 
 Truthtable
 
