@@ -16,10 +16,6 @@ Half adder is a combinational circuit that performs simple addition of two binar
 
 Sum = A’B+AB’ =A ⊕ B Carry = AB
 
-image
-
-Figure -01 HALF ADDER
-
 Truthtable
 
 Procedure
